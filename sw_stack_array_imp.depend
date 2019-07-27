@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1564222931 source:c:\users\ebrah\documents\code_blocks_workspace\sw_stack_array_imp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sw_stack_array.h"
+	"test_cases.h"
+
+1530627284 c:\users\ebrah\documents\code_blocks_workspace\sw_stack_array_imp\sw_stack_array.h
+	"common.h"
+
+1530349423 c:\users\ebrah\documents\code_blocks_workspace\sw_stack_array_imp\common.h
+
+1530627310 source:c:\users\ebrah\documents\code_blocks_workspace\sw_stack_array_imp\sw_stack_array.c
+	"common.h"
+	"sw_stack_array.h"
+	<stdlib.h>
+
+1530704632 c:\users\ebrah\documents\code_blocks_workspace\sw_stack_array_imp\test_cases.h
+
+1530707780 source:c:\users\ebrah\documents\code_blocks_workspace\sw_stack_array_imp\test_cases.c
+	<stdio.h>
+	<stdlib.h>
+	"sw_stack_array.h"
+	"test_cases.h"
+
